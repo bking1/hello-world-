@@ -1,6 +1,6 @@
 # hello-world
 First repository 
 
-Hi everyone 
+Hello everyone 
 
 This is my first edit to the file 
